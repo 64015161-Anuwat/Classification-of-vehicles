@@ -1,2 +1,3 @@
-Model 1 = Efficientnetb3 Model\n
+Model 1 = Efficientnetb3 Model
+
 Model 2 = InceptionV3 Model
